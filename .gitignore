@@ -1,0 +1,8 @@
+# Runtime artifacts (created on the live server)
+booking_debug.log
+pesapal_pending/
+
+# Local notes / OS junk
+*.log
+.DS_Store
+Thumbs.db
